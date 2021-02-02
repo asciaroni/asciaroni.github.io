@@ -14,11 +14,11 @@ author: Ms. Stone
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: ""
   About Me: "aboutme"
   Resources:
     - RenWeb: "https://www.renweb.com/"
     - Google Classroom: "https://classroom.google.com/u/0/h"
-  Author's home: ""
 
 # --- Logo --- #
 
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "astone@saintanndecatur.org"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -52,7 +52,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: +11231231234
+  telephone: +12563536543
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
